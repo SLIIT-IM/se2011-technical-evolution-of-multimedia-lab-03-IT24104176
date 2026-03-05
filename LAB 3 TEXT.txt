@@ -1,0 +1,5 @@
+Q1. it is a loop that executes 60 times 
+    per second it changes the position of the object.
+Q2. If background() is removed from draw(), the screen is never cleared.
+Q3. These variables automatically track the current horizontal and 
+    vertical pixel coordinates of the cursor within the canvas.
